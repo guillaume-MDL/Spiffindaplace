@@ -3,11 +3,11 @@ papa
 =======
 pipi
 >>>>>>> e70c29367e7b629987144733710bda6ab802af4b
+<<<<<<< Updated upstream
 
 Voila ma phrase de test
 
 
 une autre phrase.
 
-
-J'ai fait des modifs c'est ouff
+je suis trop fort
